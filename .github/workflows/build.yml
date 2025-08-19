@@ -2,7 +2,7 @@ name: Build Piwigo Flutter App
 
 on:
   push:
-    branches: [ main ]
+    branches: [ my-dev ]
   workflow_dispatch:
 
 jobs:
